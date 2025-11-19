@@ -22,7 +22,7 @@ Studying...📓✏️🖥️</p>
 <div align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/shorts/T6vyJ6K0X04"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"  /></a>
+<a href=""><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"  /></a>
 <a href="https://www.instagram.com/vini_alvesss?igsh=MWEydXYzN2VzdjhibQ=="> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
