@@ -1,6 +1,7 @@
 ### <h1>Hi there 😆 - Welcome to my profile!</h1>
 
 <p>I'm Vinícius Luiz Alves, I'm a Front End programmer and I'm currently producing projects with HTML, CSS and now starting with JavaScript. 😎
+  <br>
 Studying...📓✏️🖥️</p>
 <br>
 <br>
