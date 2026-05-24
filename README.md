@@ -13,6 +13,9 @@ Studying...📓✏️🖥️</p>
 <br>
 <h2>Technology Stack:</h2>
 <div align="left">
+  <img height="20px" alt="image" src="https://github.com/user-attachments/assets/61c113cd-a603-461d-94bd-c7618abf0f5e" />
+  <img height="20px" alt="image" src="https://github.com/user-attachments/assets/dcc55534-7bd8-4ae6-a8f8-6926601901dd" />
+  <img height="20px" alt="image" src="https://github.com/user-attachments/assets/7caf72a2-9dce-42d0-803b-654c01d2cbad" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS-logo" height="20px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=20px alt="logo-html"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="20px"/>
