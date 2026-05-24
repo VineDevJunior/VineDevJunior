@@ -1,6 +1,6 @@
 ### <h1>Hi there 😆 - Welcome to my profile!</h1>
 
-<p>I'm Vinícius Luiz Alves, I'm a Front End programmer and I'm currently producing projects with HTML, CSS and now starting with JavaScript. 😎
+<p>I'm Vinícius Luiz Alves, I'm a Front End programmer and I'm currently producing projects with HTML, CSS, JavaScript, Node.js, React.js, Frameworks and several other programming tools. 😎
   <br>
 Studying...📓✏️🖥️</p>
 <br>
@@ -22,7 +22,7 @@ Studying...📓✏️🖥️</p>
 <div align="left">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=""><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"  /></a>
+<a href="www.linkedin.com/in/vinedevjunior"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"  /></a>
 <a href="https://www.instagram.com/vini_alvesss?igsh=MWEydXYzN2VzdjhibQ=="> <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
